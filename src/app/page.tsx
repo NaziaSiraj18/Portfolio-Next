@@ -1,5 +1,5 @@
  'use client'
-import React from 'react'
+import React from 'react';
 import Typewriter from 'typewriter-effect';
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
@@ -67,7 +67,7 @@ import { FaFigma } from "react-icons/fa";
     loop: true,
   }}
 /></h1>
-      <p className="mb-8 leading-relaxed">I'm Nazia Siraj,a passionate web developer and digital creator with a strong interest in building dynamic and engaging websites.I enjoy exploring new technologies and tools to enhance my skills and create innovative digital solutions.My work reflects my dedication to crafting user-friendly experiences that combine creativity and functionality.</p>
+      <p className="mb-8 leading-relaxed">I am Nazia Siraj,a passionate web developer and digital creator with a strong interest in building dynamic and engaging websites.I enjoy exploring new technologies and tools to enhance my skills and create innovative digital solutions.My work reflects my dedication to crafting user-friendly experiences that combine creativity and functionality.</p>
       <div className="flex items-end justify-center w-full">
         <div className="relative w-2/4 mr-4 text-left lg:w-full xl:w-1/2 md:w-full">
           <label htmlFor="hero-field" className="text-sm leading-7 text-gray-400">Newsletter</label>
@@ -205,8 +205,8 @@ npx run start: Number-guessing-game
   <div className="container px-2 py-8 mx-auto">
     <div className="flex flex-wrap w-full mb-20">
       <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
-        <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-teal-500">Unlocking My Skill Set's  The Hidden Talents!</h1>
-        <div className="h-1 w-20 bg-indigo-500 rounded"></div>
+        <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-teal-500">Unlocking My Skill Sets  The Hidden Talents!</h1>
+        <div className="h-1 w-20 bg:indigo-500 rounded"></div>
       </div>
       <p className="lg:w-1/2 w-full leading-relaxed text-yellow-400 ">Highlights the range of skills and experties the impact and value brought to my projects</p>
     </div>
